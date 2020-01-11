@@ -2,7 +2,7 @@
 layout: post
 title: What are the biggest causes of complaints about Noise?
 subtitle: An analysis of the 311 calls in New York City for 2017.
-image: /img/empire-state
+image: /img/empire-state.jpg
 gh-repo: pigandfrog/NewYork_311_Noise
 gh-badge: [star, fork, follow]
 tags: [New York, 311, noise]
