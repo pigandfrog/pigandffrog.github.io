@@ -2,7 +2,7 @@
 ---
 layout: post
 title: NFL Plays; Are they predictable and Does it matter?
-subtitle: An analysis of the 311 calls in New York City for 2017.
+subtitle: 
 image: /img/football.jpg
 gh-repo: richardOlson/nfl_2019_play_by_play
 gh-badge: [star, fork, follow]
